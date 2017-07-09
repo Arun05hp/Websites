@@ -1,0 +1,128 @@
+body{
+	    font-family: 'Merriweather Sans', sans-serif;
+}
+.navbar{
+	border-radius: 10%;
+	background-color: transparent;
+	border:0;
+	border-bottom: 3px solid #9d9d9d;
+}
+header{
+
+	background-image: url("https://www.planwallpaper.com/static/images/HD-Wallpapers-C76_yCO55lB.jpg");
+    height: 650px;
+    width: 100%;
+    background-size: cover;
+    opacity: .9;
+}
+.nav li a{
+	font-size: 13px;
+}
+.nav,
+.navbar-header{
+	font-weight: 800;
+}
+div.jumbotron{
+	text-align: center;
+	color: white;
+}
+header div.jumbotron{
+	margin: 70px auto;
+	background-color: transparent;
+	
+}
+div.jumbotron hr{
+	max-width: 50px;
+	border-width: 3px;
+}
+header div.jumbotron h1{
+	font-size: 50px;
+}
+header div.jumbotron hr,
+div.color hr,
+.three hr{
+	border-bottom: 3px solid #eb3812;
+	border-top-color: transparent;
+}
+.first hr{
+	border-top-color: transparent;
+	border-bottom: 3px solid white;
+
+}
+div.jumbotron p{
+	font-size: 16px;
+	margin: 30px auto;
+
+}
+.btn-lg{
+	margin-top: 30px;
+	border-color: #F05F40;
+	background-color: #F05F40;
+	border-radius: 400px;
+	font-size: 14px;
+	font-weight: 700;
+	padding:12px 30px;
+}
+div.jumbotron{
+	height: 100%;
+	background-color: #F05F40;
+	margin-bottom: 0;
+}
+div.jumbotron h1{
+	font-size: 30px;
+}
+.btn-lg.one{
+	background-color: white;
+	color: black;
+}
+div.color{
+	background-color: white;
+	color: black;
+}
+div.color i{
+	color:#F05F40; 
+}
+.row h2{
+	font-size: 24px;
+}
+.row .col-md-3 p{
+
+	font-size: 16px;
+}
+.row .col-md-3{
+	width: 23%;
+}
+.row-1{
+	margin-left: 100px;
+}
+.row-2{
+	margin-right: 0px;
+}
+.row-2 .col-md-4{
+	padding: 0px;
+}
+.row-2 .col-md-4 .thumbnail,.three .text-center p{
+	border:0;
+	padding: 0;
+	margin: 0;
+}
+div.size-one p{
+margin:0px auto;
+}
+div.jumbotron.size-one{
+	height: 60%;
+	background-color:black;
+}
+.btn-lg.two{
+	margin-top: 0px;
+	color: black;
+	background-color: white;
+}
+.jumbotron.three{
+	height: 500px;
+	background-color: white;
+	color: black;
+}
+.three .text-center a{
+	color: #F05F40;
+}
